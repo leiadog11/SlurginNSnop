@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Users/leiad/Documents/Github/SlurginNSnop/SnS/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Users/leiad/Documents/Github/SlurginNSnop/SnS/Content/SlurginNSnop/Blueprints/BP_Snop.uasset",
+				"E:/Users/leiad/Documents/Github/SlurginNSnop/SnS/Content/AdyAssets/Assets/Characters/SmoothFBX/Animations/Snop/Snop_Unhiding_AnimSequence.uasset",
+				"E:/Users/leiad/Documents/Github/SlurginNSnop/SnS/Content/AdyAssets/Assets/Characters/SmoothFBX/Animations/Snop/Snop_ShellUnhiding_AnimSequence.uasset",
 				"C:/Users/rebec/Documents/GIMM400/SlurginNSnop/SnS 5.4/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/rebec/Documents/GIMM400/SlurginNSnop/SnS 5.4/Content/ThirdPerson/Blueprints/BP_LobbyCharacter.uasset",
 				"C:/Users/rebec/Documents/GIMM400/SlurginNSnop/SnS 5.4/Content/UI/WBP_StartMenu.uasset",
